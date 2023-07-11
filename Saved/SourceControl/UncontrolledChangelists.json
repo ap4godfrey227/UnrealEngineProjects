@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/ap4go/OneDrive/Desktop/Udemy Unreal Engine/WarehouseWreckage/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/ap4go/OneDrive/Desktop/Udemy Unreal Engine/WarehouseWreckage/Content/StarterContent/Maps/Minimal_Default.umap",
+				"C:/Users/ap4go/OneDrive/Desktop/Udemy Unreal Engine/WarehouseWreckage/Content/StarterContent/Maps/BP_Projectile.uasset",
+				"C:/Users/ap4go/OneDrive/Desktop/Udemy Unreal Engine/WarehouseWreckage/Content/BP_Projectile.uasset",
+				"C:/Users/ap4go/OneDrive/Desktop/Udemy Unreal Engine/WarehouseWreckage/Content/main.umap",
+				"C:/Users/ap4go/OneDrive/Desktop/Udemy Unreal Engine/WarehouseWreckage/Content/IndustryPropsPack6/Meshes/SM_Barrel01.uasset",
+				"C:/Users/ap4go/OneDrive/Desktop/Udemy Unreal Engine/WarehouseWreckage/Content/BP_Barrell.uasset",
+				"C:/Users/ap4go/OneDrive/Desktop/Udemy Unreal Engine/WarehouseWreckage/Content/StarterContent/Blueprints/BP_Projectile.uasset"
+			]
+		}
+	]
+}
